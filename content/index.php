@@ -30,7 +30,7 @@
   <body>
     <div id="container">
       <img src="reinvent.png" id="logo" alt="AWS re:Invent">
-      <h1>Application Lifecycle Management Bootcamp</h1>
+      <h1>Application Lifecycle Management Bootcamp - by ME</h1>
       <p>
 	<?php
 	require_once('src/Sample.php');
