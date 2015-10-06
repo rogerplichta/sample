@@ -3,7 +3,7 @@
 ![](https://s3.amazonaws.com/devops-bootcamp/img/alm-demo.png)
 
 This is a sample PHP application for the re:Invent Application
-Lifecycle Management bootcamp. ----
+Lifecycle Management bootcamp. 
 
 ## Security
 
